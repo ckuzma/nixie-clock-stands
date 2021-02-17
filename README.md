@@ -28,4 +28,4 @@ The second file is a print-friendly STL of the stands.  Not that there _is_ a sp
 
 For more information, check out my blog post here:
 
-- []
+- [https://github.com/ckuzma/blog/blob/master/posts/2021/2021-02-16-nixie-stands.md](https://github.com/ckuzma/blog/blob/master/posts/2021/2021-02-16-nixie-stands.md)
